@@ -15,8 +15,6 @@
 
 ## Overview
 
----
-
 In this repository we have done A/B testing using machine learning on a dataset of users who were shown a creative ad made by the company SmartAd. This project is part of 10 academy's training week 2 challenge.
 
 ## Scenario
@@ -33,8 +31,6 @@ This project is divided and implemented by the following phases
 4. Extracting statistically valid insights in relation to the business objective
 
 ## Project Structure
-
----
 
 The repository has a number of files including python scripts, jupyter notebooks, pdfs and text files. Here is their structure with a brief explanation.
 
@@ -53,8 +49,6 @@ The repository has a number of files including python scripts, jupyter notebooks
 
 ## Installation guide
 
----
-
 ```
 git clone https://github.com/ProgrammingOperative/SmartAd_AB_test.git
 cd SmartAd_AB_test
@@ -62,7 +56,5 @@ pip install -r requirements.txt
 ```
 
 ## ML Pipeline Design
-
----
 
 ![](images/diagram.png)
